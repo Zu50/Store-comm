@@ -8,9 +8,7 @@ A full-stack e-commerce project built with Postgres, Express, React and Node.
 
 [Documentation](https://pern-store.onrender.com/api/docs/)
 
-## Demo
 
-[Run demo](https://pern-store.netlify.app)
 
 
 ## Database Schema
@@ -90,4 +88,4 @@ To run this project, you will need to add the following environment variables to
 
 `STRIPE_SECRET_KEY`
 
-# Zohour
+
